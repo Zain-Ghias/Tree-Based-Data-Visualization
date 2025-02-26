@@ -40,10 +40,12 @@ Below are some visuals demonstrating the system in action:
 ### **1️⃣ Example Directory Expansion & Collapse**
 
 This GIF shows the user **expanding and collapsing nodes** in an example directory, representing a file system structure.
+![Example Directory](gifs/Animation.gif)
 
 ### **2️⃣ Treemap Visualization in Action**
 
 This GIF demonstrates how the **treemap dynamically updates** as nodes are expanded and collapsed, showing how data is visually represented.
+![Treemap Visualization](gifs/Animation2.gif)
 
 ## **How to Run**
 
