@@ -47,6 +47,21 @@ This GIF shows the user **expanding and collapsing nodes** in an example directo
 This GIF demonstrates how the **treemap dynamically updates** as nodes are expanded and collapsed, showing how data is visually represented.
 ![Treemap Visualization](gifs/Animation2.gif)
 
+## **Instructions for Use**
+
+When a folder/file is selected, the following keys can be pressed:
+
+- **E** → Expand the folder
+- **A** → Expand the folder and all folders inside
+- **C** → Collapse the parent folder
+- **X** → Collapse the entire display
+- **Q** → Visualize the selected folder/file
+- **B** → Go back to parent folder (if Q was pressed)
+- **Up/Down Arrow Keys** → Change the size of a file (in visualization)
+- **M** → Move a file (while selecting a file and hovering over a folder)
+- **Del** → Delete a file or folder from the visualization
+- **Drag window** → Resize the visualization window
+
 ## **How to Run**
 
 ```sh
