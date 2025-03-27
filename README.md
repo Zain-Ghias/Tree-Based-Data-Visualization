@@ -62,17 +62,6 @@ When a folder/file is selected, the following keys can be pressed:
 - **Del** → Delete a file or folder from the visualization
 - **Drag window** → Resize the visualization window
 
-## **How to Run**
-
-```sh
-# Clone the repository
-git clone https://github.com/Zain-Ghias/Tree-Based-Data-Visualization-Showcase.git
-cd Tree-Based-Data-Visualization-Showcase
-
-# Run the program (ensure dependencies are installed)
-python src/treemap_visualiser.py
-```
-
 ## **Why is the Code Private?**
 
 - 🔒 This project was developed as part of **CSC148 at UofT**.
